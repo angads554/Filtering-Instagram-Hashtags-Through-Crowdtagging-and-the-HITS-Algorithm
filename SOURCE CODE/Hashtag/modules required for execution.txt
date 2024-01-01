@@ -1,0 +1,20 @@
+pip install matplotlib
+pip install sklearn
+pip install pandas
+pip install tensorflow==1.14.0
+pip install keras==2.3.1
+pip install opencv-python==4.5.1.48
+pip install networkx
+pip install --upgrade pip
+pip install torchvision
+pip install nltk
+download and install nltktools-- nltktool_download.py
+pip install pycocotools-windows
+
+run the project after all the above modules installed perfectly.
+if not executed go with below instructions.
+note: 
+
+pip install pycocotools-- if errors come() goto following link
+https://blog.fearcat.in/a?ID=01700-aad6a154-86cd-4f82-a025-964ac45e8e37
+
